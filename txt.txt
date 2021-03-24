@@ -1,1 +1,2 @@
-qwe
+first string
+second string
